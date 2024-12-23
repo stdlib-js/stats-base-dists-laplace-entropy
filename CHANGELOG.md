@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-20)
+## Unreleased (2024-12-23)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`a72a67a`](https://github.com/stdlib-js/stdlib/commit/a72a67a667bcf694e5f8f2bc3c8e62714e5832bc) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`3c0ff2c`](https://github.com/stdlib-js/stdlib/commit/3c0ff2cdae8f78f99cdf09db8dc150f3f0e2cd67) - **feat:** add C implementation  for `stats/base/dists/laplace/entropy` [(#4025)](https://github.com/stdlib-js/stdlib/pull/4025) _(by Aayush Khanna, Philipp Burckhardt)_
 
 </details>
